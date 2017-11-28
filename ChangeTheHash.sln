@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTheHash", "ChangeTheHash\ChangeTheHash.csproj", "{35629FA9-4637-455B-A9BB-A2AC9DC28310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35629FA9-4637-455B-A9BB-A2AC9DC28310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35629FA9-4637-455B-A9BB-A2AC9DC28310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35629FA9-4637-455B-A9BB-A2AC9DC28310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35629FA9-4637-455B-A9BB-A2AC9DC28310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9E1654-D4A7-4FD1-92A2-FE294AEA77C9}
+	EndGlobalSection
+EndGlobal
